@@ -1,9 +1,9 @@
 # Herya Official Blog
+[![Netlify Status](https://api.netlify.com/api/v1/badges/12226333-5ebd-474d-bc27-63b61651f7b2/deploy-status)](https://app.netlify.com/projects/herya/deploys)
 
 `version: 0.0`
 `status: dev`
 `accessibility: private`
-
 ## Deskripsi
 
 `Herya Official Website` merupakan sebuah official website yang di rancang sebagai herya web entry point.
